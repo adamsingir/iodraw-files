@@ -61,16 +61,22 @@
             <mxPoint x="596.9999999999998" y="1029.93" as="targetPoint" />
             <mxPoint x="350" y="424.93" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="740" y="424.93" />
-              <mxPoint x="740" y="689.93" />
-              <mxPoint x="590" y="689.93" />
-              <mxPoint x="590" y="1029.93" />
+              <mxPoint x="740" y="425" />
+              <mxPoint x="740" y="690" />
+              <mxPoint x="590" y="690" />
+              <mxPoint x="590" y="1080" />
+              <mxPoint x="597" y="1080" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="8X6RLQyjaLS4qekVGivO-4" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8X6RLQyjaLS4qekVGivO-3">
           <mxGeometry x="0.9699" y="5" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8X6RLQyjaLS4qekVGivO-5" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="8X6RLQyjaLS4qekVGivO-3">
+          <mxGeometry x="0.7671" y="2" relative="1" as="geometry">
+            <mxPoint x="88" y="118" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nvr9Cc3CxAVXhQOdgVla-11" value="&amp;nbsp;Is bin at or above&lt;div&gt;&amp;nbsp;threshold?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
