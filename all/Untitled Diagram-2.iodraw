@@ -57,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nvr9Cc3CxAVXhQOdgVla-11" value="&amp;nbsp;Is bin at or above&lt;div&gt;&amp;nbsp;threshold?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="250" y="400" width="180" height="80" as="geometry" />
+          <mxGeometry x="250" y="400" width="230" height="80" as="geometry" />
         </mxCell>
         <mxCell id="nvr9Cc3CxAVXhQOdgVla-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nvr9Cc3CxAVXhQOdgVla-12" target="nvr9Cc3CxAVXhQOdgVla-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
