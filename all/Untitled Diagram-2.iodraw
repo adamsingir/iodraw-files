@@ -56,10 +56,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8X6RLQyjaLS4qekVGivO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="8X6RLQyjaLS4qekVGivO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nvr9Cc3CxAVXhQOdgVla-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="489.9966666666666" y="434.9003703703706" as="sourcePoint" />
             <mxPoint x="549.9999999999998" y="1075" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="600" y="435" />
+              <mxPoint x="600" y="733" />
+              <mxPoint x="510" y="733" />
+              <mxPoint x="510" y="1067" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nvr9Cc3CxAVXhQOdgVla-11" value="&amp;nbsp;Is bin at or above&lt;div&gt;&amp;nbsp;threshold?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
