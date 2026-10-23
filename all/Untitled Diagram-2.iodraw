@@ -59,6 +59,10 @@
         <mxCell id="8X6RLQyjaLS4qekVGivO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nvr9Cc3CxAVXhQOdgVla-11">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="460" y="1114" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="440" />
+              <mxPoint x="570" y="1114" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="nvr9Cc3CxAVXhQOdgVla-11" value="&amp;nbsp;Is bin at or above&lt;div&gt;&amp;nbsp;threshold?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
