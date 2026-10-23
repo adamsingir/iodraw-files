@@ -56,11 +56,12 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8X6RLQyjaLS4qekVGivO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="nvr9Cc3CxAVXhQOdgVla-18">
+        <mxCell id="8X6RLQyjaLS4qekVGivO-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.998;entryY=0.407;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="nvr9Cc3CxAVXhQOdgVla-11" target="nvr9Cc3CxAVXhQOdgVla-18">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="489.9966666666666" y="434.9003703703706" as="sourcePoint" />
             <mxPoint x="549.9999999999998" y="1075" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="430" y="435" />
               <mxPoint x="510" y="435" />
               <mxPoint x="510" y="1067" />
             </Array>
